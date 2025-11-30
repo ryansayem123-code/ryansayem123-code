@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there i'm Ryan! 👋 <br><br>👨🏽‍💻I'm a software engineer who enjoys problem solving!<br><br>✏️Started with Harvard CS50 Learnt initially through a boot camp and than continued growing🌱!!<br><br>💭Always learning new things. Currently learning about Data analytics<br><br>🎨I have a strong eye for design and love combining creativity and technology to build visually appealing projects.
+Hi there i'm Ryan! 👋 <br><br>👨🏽‍💻I'm a Cloud/Devops engineer who enjoys problem solving!<br><br>✏️Started with Harvard CS50 Learnt initially through a boot camp and than continued growing🌱!! Currently studying cloud computing☁️<br><br>💭Always learning new things. Currently learning about Data analytics<br><br>🎨I have a strong eye for design and love combining creativity and technology to build visually appealing projects.
 
 
 ## 🌐 Socials:
